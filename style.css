@@ -1,0 +1,25 @@
+ol {
+    color: royalblue;
+    font-family: fantasy;
+}
+
+ul {
+    color: royalblue;
+    font-family: cursive;
+    
+}
+
+h1 {
+    color: rgba(255, 208, 0, 0.664);
+    text-decoration-style: wavy;
+}
+
+.index_list {
+    background-color: silver;
+    color: red;
+    font-weight: bolder;
+    font-size: 38px;
+}
+a {
+    color: red;
+}
