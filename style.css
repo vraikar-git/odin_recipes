@@ -1,25 +1,31 @@
 ol {
     color: royalblue;
-    font-family: fantasy;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 ul {
     color: royalblue;
-    font-family: cursive;
+    font-family: cursive, Arial, Helvetica, sans-serif;
     
 }
 
 h1 {
     color: rgba(255, 208, 0, 0.664);
     text-decoration-style: wavy;
+    text-align: center;
 }
 
 .index_list {
     background-color: silver;
     color: red;
-    font-weight: bolder;
+    font-weight: bold;
     font-size: 38px;
 }
 a {
     color: red;
+}
+
+img {
+    width : 100%;
+    height: auto;
 }
